@@ -1,5 +1,7 @@
 # "How-to-learn" project
 
+_________________
+
 The project is created on the course "Web developer" Yandex Practicum. During the course, students study technologies such as HTML, CSS and JavaScript.
 
 ## About the project
