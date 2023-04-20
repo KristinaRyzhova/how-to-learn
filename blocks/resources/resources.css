@@ -1,0 +1,7 @@
+.resources {
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 217px;
+    margin: 0 auto 0;
+    flex-direction: column;
+}
